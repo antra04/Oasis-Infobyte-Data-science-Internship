@@ -1,1 +1,1 @@
-# Oasis-Infobyte-Data-science-Intership
+# Oasis-Infobyte-Data-science-Internship
